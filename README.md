@@ -1,4 +1,7 @@
 # CityList
+
+![](https://img.shields.io/badge/platform-Android-brightgreen.svg) ![](https://img.shields.io/badge/language-java-yellow.svg) ![](https://img.shields.io/badge/license-Apache--2.0-blue.svg)
+
 城市列表选择，类似美团城市选择
 
 
